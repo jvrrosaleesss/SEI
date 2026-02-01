@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #0b0b0b;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.container {
+  width: 90%;
+  max-width: 420px;
+  text-align: center;
+  padding: 20px;
+}
+
+.photo {
+  width: 100%;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.6);
+}
